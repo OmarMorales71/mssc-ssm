@@ -1,4 +1,4 @@
-package mar.springframework.msscssm;
+package omar.springframework.msscssm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

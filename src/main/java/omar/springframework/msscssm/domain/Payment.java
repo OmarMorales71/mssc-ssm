@@ -1,4 +1,4 @@
-package mar.springframework.msscssm.domain;
+package omar.springframework.msscssm.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
